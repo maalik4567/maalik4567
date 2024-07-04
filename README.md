@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**maalik4567/maalik4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on  ASP .NET MVC CORE
+- 🌱 I’m currently learning ASP .NET MVC (NEXTJS / REACTJS) and working on FYP(Blockchain + Nodejs + MongoDB + Nextjs)
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with .NET things
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 -->
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| .NET | C# | REACTJS | NEXTJS | Solidity |
+|----------|----------|----------|-----|-----|
+
