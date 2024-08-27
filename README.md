@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with .NET things
 - 💬 Ask me about ...
-- 📫 How to reach me: https://my-port-folio-nine-jet.vercel.app/
+- 📫 How to reach me: https://malik-portfolio-zeta.vercel.app/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 -->
